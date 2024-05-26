@@ -1,4 +1,3 @@
-knitr::opts_chunk$set(echo = TRUE)
 library(tidyverse)  
 library(ggplot2)  
 library(readr)
